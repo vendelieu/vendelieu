@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jey
+# Hi there 👋 I'm Jey
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
