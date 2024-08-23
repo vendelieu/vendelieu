@@ -14,4 +14,4 @@ There's random joke for you:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vendelieu&show_icons=true&theme=transparent)
 
-![visitors](https://profile-counter.glitch.me/vendelieu/count.svg)
+![](https://komarev.com/ghpvc/?username=vendelieu&color=red)
