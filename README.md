@@ -8,7 +8,7 @@ I also like to do interesting projects, if you have ideas or just want to say hi
 
 There's random joke for you:
 
-![random joke](https://dev.vendeli.eu/random-joke)
+![random joke](https://dev.vendeli.eu/random-joke?vendelieu)
 
 ### Stats
 
