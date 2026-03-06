@@ -12,6 +12,6 @@ There's random joke for you:
 
 ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vendelieu&show_icons=true&theme=transparent)
+![GitHub stats](https://mappy-lemon.vercel.app/stats/map?username=vendelieu)
 
 ![](https://komarev.com/ghpvc/?username=vendelieu&color=red)
